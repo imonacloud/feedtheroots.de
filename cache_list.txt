@@ -1,0 +1,8 @@
+voters-count-{account_id}-{user_id} --> dashboard
+my-voters-count-{account_id}-{user_id} --> dashboard
+voters-by-ethnicgroups-{account_id}-{user_id} --> dashboard
+prime1-voters-count-{account_id}-{user_id} --> dashboard
+prime2-voters-count-{account_id}-{user_id} --> dashboard
+prime3-voters-count-{account_id}-{user_id} --> dashboard
+male-voters-count-{account_id}-{user_id} --> dashboard
+female-voters-count-{account_id}-{user_id} --> dashboard
